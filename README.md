@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Advanced JavaScript And Advanced Python                        .**
+- 🌱 I’m currently learning **Advanced JavaScript And Advanced Python.**
   
 - 👯 I’m looking to collaborate on **A Idea Which I can't Tell Here.**
 
@@ -27,7 +27,7 @@
      
      Algorithms 🧩
     
-     Machine Learning 🎰
+     Machine Learning And Artificial Intelligence 🎰
 
      Learning about new technologies 💻
 
