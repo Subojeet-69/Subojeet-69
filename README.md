@@ -90,22 +90,22 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Subojit-6969/github-readme-stats"><img alt="Subojit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Subojit-6969&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Subojit-6969/github-readme-stats"><img alt="Subojit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subojit-6969&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Subojeet-69/github-readme-stats"><img alt="Subojit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Subojeet-69&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Subojeet-69/github-readme-stats"><img alt="Subojit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subojeet-69&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <hr>
 <hr>
-<a href="https://github.com/Subojit-6969/github-readme-activity-graph"><img alt="Subojit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Subojit-6969&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Subojeet-69/github-readme-activity-graph"><img alt="Subojit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Subojeet-69&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <hr>
 <hr>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Subojit-6969/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Subojit-6969">
+<a href="https://github.com/Subojeet-69/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Subojeet-69">
 </a>
-<a href="https://github.com/Subojit-6969?tab=followers"><img src="https://img.shields.io/github/followers/Subojit-6969?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Subojeet-69?tab=followers"><img src="https://img.shields.io/github/followers/Subojeet-69?label=Followers&style=social" alt="GitHub Badge"></a>
 <hr>
 <hr>
 <h1 align="center">Thanks<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Byee </h1>
