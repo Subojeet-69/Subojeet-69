@@ -108,6 +108,6 @@
 <a href="https://github.com/Subojit-6969?tab=followers"><img src="https://img.shields.io/github/followers/Subojit-6969?label=Followers&style=social" alt="GitHub Badge"></a>
 <hr>
 <hr>
-<h1 align="center">Thanks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Byee </h1>
+<h1 align="center">Thanks<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Byee </h1>
 <hr>
 <hr>
